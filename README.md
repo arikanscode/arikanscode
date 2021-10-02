@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arikanscode
 - 👀 I’m interested in Mobile Programming and Game Development
-- 🌱 I’m currently learning Unity Game Engine
+- 🌱 I'm currently working with Unity Game Engine
 - 💞️ I’m looking to collaborate on Game Projects
 
 <!---
